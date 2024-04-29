@@ -1,0 +1,119 @@
+:root {
+  --card-max-width: 336px;
+  --card-max-height: 152px;
+  /* Colors */
+  --web-bg-color: #FAFAF9;
+  --card-bg-color: #FFF;
+  --card-border-color: #E5EAF0;
+  --card-title-color: #20293A;
+  --card-txt-color: #6C727F;
+  --btn-bg-color: #E6D6FC;
+  --btn-color: #883AE1;
+  /* Font sizes */
+  --font-title-size: 1.125rem;
+  --font-body-size: 0.875rem;
+  --font-smalltext-size: 0.75rem;
+  --font-tag-size: 0.625rem;
+  /* Font regular size */
+  font-size: 16px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sora-title {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: var(--font-title-size);
+  color: var(--card-title-color);
+}
+.sora-body {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-size: var(--font-body-size);
+  color: var(--card-txt-color);
+}
+.sora-smalltext {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-size: var(--font-smalltext-size);
+  color: var(--card-txt-color);
+}
+.sora-tag {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: var(--font-tag-size);
+  color: var(--btn-color);
+}
+
+body {
+  height: 100dvh;
+  min-width: 350px;
+  background-color: var(--web-bg-color);
+}
+
+main {
+  padding: 164px 0 0;
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  background-color: var(--card-bg-color);
+  border-radius: .6rem; 
+  box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+}
+.card-cont {
+  list-style-type: none;
+  overflow: hidden;
+}
+.card-cont-primary {
+  padding: 1rem 1rem 20px 1rem;
+}
+.card-cont-secondary {
+  padding: 0 1rem 20px 1rem;
+  border-top: solid 1px var(--card-border-color);
+}
+.card-cont-img__wrap {
+  width: var(--card-max-width);
+  height: var(--card-max-height);
+  overflow: hidden;
+}
+.card-cont-img {
+  width: 100%;
+  object-fit: cover; 
+}
+.card-cont-btn__space {
+  padding: 1rem 0;
+}
+.card-cont-btn-rounded-tag {
+  display: inline-block;
+  padding: 6px 1rem;
+  border-radius: 100vh;
+  background-color: var(--btn-bg-color);
+}
+.card-cont-title {
+  padding-bottom: 6px;
+}
+.card-cont-txt {
+  max-width: var(--card-max-width);
+}
+.card-cont-txt > p {
+  text-align: left;
+  line-height: 1.5;
+  margin-right: 1rem;
+}
+.card-cont-autor > p {
+  margin-top: 20px;
+}
