@@ -1,12 +1,12 @@
 {
   "name": "minimal_blog_card",
   "version": "1.0.0",
-  "description": "![Minimal Card Preview](./screenshots/minimal_card.png)",
+  "description": "This project is a simple demonstration of how to create a minimalist card using HTML and CSS. This is a perfect practice to show off my html and css skills in a small component without libraries or frameworks, after all anyone could need a fast and elegant card design for their web projects.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [practice, html, css, challenge, devchallenge, web],
+  "author": "CaessarCZX",
+  "license": "MIT Licence"
 }
