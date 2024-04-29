@@ -1,10 +1,10 @@
-# Minimal Card HTML & CSS
+# Challenge #1: Minimal Card.
 
 ![Minimal Card Preview](./screenshots/minimal_card.png)
 
 ## Overview
 
-This project is a simple demonstration of creating a minimalistic card using HTML and CSS. It's perfect for beginners who want to practice their HTML and CSS skills or anyone who needs a quick and elegant card design for their web projects.
+This project is a simple demonstration of how to create a minimalist card using HTML and CSS. This is a perfect practice to show off my html and css skills in a small component without libraries or frameworks, after all anyone could need a fast and elegant card design for their web projects.
 
 ## Features
 
@@ -12,10 +12,6 @@ This project is a simple demonstration of creating a minimalistic card using HTM
 - Responsive layout that looks great on all devices.
 - Easy-to-understand HTML and CSS for beginners.
 - Customizable colors and styles to fit your project.
-
-## Preview
-
-![Minimal Card Preview](preview.png)
 
 You can see a live preview of the minimal card in action [here](https://your-live-preview-url.com).
 
@@ -27,9 +23,9 @@ You can see a live preview of the minimal card in action [here](https://your-liv
 
 ## Credits
 
-This project was inspired by [XYZ](link-to-inspiration).
+This project is part of the first challenge from devChallenges.io [Enter to devChallenges here!](https://devchallenges.io).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
 
