@@ -1,6 +1,6 @@
 # Minimal Card HTML & CSS
 
-![Minimal Card Preview](preview.png)
+![Minimal Card Preview](./screenshots/minimal_card.png)
 
 ## Overview
 
