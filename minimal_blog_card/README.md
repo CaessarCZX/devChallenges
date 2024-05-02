@@ -1,10 +1,11 @@
+![Front-End banner](./userdata/FE-Banner.png)
 # Challenge #1: Minimal Card.
 
-![Minimal Card Preview](./screenshots/minimal_card.png)
+![Minimal Card Preview](./userdata/screenshots/minimal_card.png)
 
 ## Overview
 
-This project is a simple demonstration of how to create a minimalist card using HTML and CSS. This is a perfect practice to show off my html and css skills in a small component without libraries or frameworks, after all anyone could need a fast and elegant card design for their web projects.
+This project is a simple demonstration of how to create a minimalist card using HTML and CSS. This is a small component created without libraries or frameworks, after all anyone could need a fast and elegant card design for their web projects.
 
 ## Features
 
@@ -13,7 +14,7 @@ This project is a simple demonstration of how to create a minimalist card using 
 - Easy-to-understand HTML and CSS for beginners.
 - Customizable colors and styles to fit your project.
 
-You can see a live preview of the minimal card in action [here](https://minimal-blog-card-caessarczx.netlify.app).
+You can see a live preview of the minimal card in action 👉🏼 [here](https://minimal-blog-card-caessarczx.netlify.app).
 
 ## Usage
 
