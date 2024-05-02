@@ -13,7 +13,7 @@ This project is a simple demonstration of how to create a minimalist card using 
 - Easy-to-understand HTML and CSS for beginners.
 - Customizable colors and styles to fit your project.
 
-You can see a live preview of the minimal card in action [here](https://your-live-preview-url.com).
+You can see a live preview of the minimal card in action [here](https://minimal-blog-card-caessarczx.netlify.app).
 
 ## Usage
 
