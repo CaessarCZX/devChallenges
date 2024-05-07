@@ -1,5 +1,17 @@
-![Front-End banner](./userdata/FE-Banner.png)
-# Challenge #1: Minimal Card.
+
+<div style='background-color: none; height: 150px'>
+  <ul style='list-style-type: none; display: flex; justify-content: space-between;'>
+    <li>
+      <img style='width: 220px' src='../userdata/svg/FE.svg' />
+    </li>
+    <li style='display: flex; flex-direction: column; justify-content: end; padding: 2rem; color: #fff;'>
+      <div>
+        <P style='padding: 0; margin: 0; font-size: 0.875rem;'>CaessarCZX</P>
+        <P style='padding: 0; margin: 0; font-weight: 100; font-style: italic;'>Software Engineer</P>
+      </div>
+    </li>
+  </ul>
+</div>
 
 ![Minimal Card Preview](./userdata/screenshots/minimal_card.png)
 
