@@ -1,6 +1,6 @@
 
-<div style='background-color: #000; height: 50px; text-align: center;'>
-  <img style='width: 100%;' src='../userdata/svg/FE.svg' />
+<div style='background-color: #000; text-align: center;'>
+  <img style='width: 50%;' src='../userdata/svg/FE.svg' />
 </div>
 
 ![Minimal Card Preview](./userdata/screenshots/minimal_card.png)
