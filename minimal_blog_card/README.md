@@ -1,5 +1,5 @@
 
-<div style='background-color: #000; height: 200px; text-align: center;'>
+<div style='background-color: #000; height: 50px; text-align: center;'>
   <img style='width: 100%;' src='../userdata/svg/FE.svg' />
 </div>
 
